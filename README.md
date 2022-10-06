@@ -247,7 +247,5 @@ Multiply two digits given by the user.
 Read the two digits from stdin, multiply them, and print the result, followed by a new line
 ___
 
-## **Authors:**
-### **Auth1:** ***Afolabi John Oluwaseun***
-### **Auth2:** ***Erica Onyegwu***
-
+## **Author:**
+###***Ayo-Olaoye Adebusola***
